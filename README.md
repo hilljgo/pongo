@@ -1,2 +1,2 @@
 # pongo
-Pong written in Go!
+Pong written in Go! (WIP)
